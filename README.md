@@ -1,1 +1,1 @@
-A more modern-looking homepage design.
+A fake startup company's homepage design.
